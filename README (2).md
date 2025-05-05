@@ -21,12 +21,3 @@ Designed an interactive and scalable dashboard to track and analyze sales perfor
 ### **Technology Stack**  
 - **Tools Used**: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Named Ranges
 - **Data Sourc**: Excel Sheets.  
-
-### **Execution Steps**  
-
-1. **Data Modeling**: Built a star schema with factEcommerce as the central table, ensuring referential integrity through one-to-many relationships.
-2. **Data Cleaning & Transformation**: Cleaned data using Power Query, standardized naming, and ensured data types and keys were consistent.
-3. **Visualization**: Developed multi-page reports with performance metrics, including maps for regional analysis and charts for payment trends.
-4. **Image Mapping**: Merged product and country flag images using Product ID and Country as keys, allowing for enriched visuals.
-5. **Time Intelligence**: Used the Calendar table to support YoY and MoM growth analysis.
-6. **User Experience Design**: Included bookmarks for better usability.
